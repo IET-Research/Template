@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! There is the Intelligent eTransportation Lab
 
 social:
   - { icon: "ti-facebook", link: "#" }
@@ -71,7 +71,7 @@ work-process:
 
 # My Team Section
 team:
-  - title: "Jack Schenziwe"
+  - title: "Yuanjian Zhang"
     image: "assets/images/team/member-1.png"
     designation: "Project Manager"
 
